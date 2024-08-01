@@ -1,11 +1,11 @@
 # _Code Snippet_
-### _Made With_
+### 🪄 _Made With_
 - React JS
 - Tailwind CSS
 - Shadcn UI
 - Zustand
 
-### _Features_
+### 🔮 _Features_
 - Auto Detect Language
 - Different Themes
 - Number of Fonts
