@@ -1,4 +1,6 @@
 # _Code Snippet_
+A tool for making shareable snippets of your code.
+
 ### 🪄 _Made With_
 - React JS
 - Tailwind CSS
