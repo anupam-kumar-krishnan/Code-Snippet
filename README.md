@@ -1,7 +1,7 @@
 # 🖼️ _Code Bits_
 <img width="2560" height="1440" alt="code-snippet" src="https://github.com/user-attachments/assets/961794b1-efa2-4ea4-8b25-12b9209411b2" />
 
-## _A tool for making shareable snippets of your code with code highlight._
+## _A tool for making stunning shareable snippets of your code with code highlight._
 
 ### 🪄 _Made With_
 - React JS
