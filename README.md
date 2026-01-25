@@ -3,6 +3,8 @@
 
 ## _A tool for making stunning shareable snippets of your code with code highlight._
 
+### 🌐 _Live Link_: _[Click here to Preview](https://code-snippet-brown.vercel.app/)_
+
 ### 🪄 _Made With_
 - React JS
 - Tailwind CSS
