@@ -5,7 +5,7 @@
 
 ### 🌐 _Live Link_: _[Click here to Preview](https://code-snippet-brown.vercel.app/)_
 
-### 🪄 _Made With_
+### 🪄 _Made using_
 - React JS
 - Tailwind CSS
 - Shadcn UI
